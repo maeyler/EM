@@ -2,7 +2,6 @@
     body {max-width: 700px; margin: auto;}
 	.markdown-body hr {height: 2px;}
 </style>
-<title>EM Sunuş</title>
 ## SUNUŞ -- Gündüz Ulusoy
 
 Aralık 1982 tarihli “Endüstri Mühendisliği – Bir Tanıtma” başlıklı taslak bildirimim üzerinden 43 seneyi aşkın bir zaman geçmiş. Gerek dünyada gerekse ülkemizde yaşamın hemen her boyutunda önemli değişim, dönüşümlerin yaşandığı bu dönemde endüstri mühendisliği hakkında yazdıklarımın bir bölümü güncelliğini yitirmekle birlikte bir bölümü de güncelde daha bir önem kazandı. Dördüncü endüstriyel devrim, dijital dönüşüm, küreselleşme, tedarik ağları, yeni iş yapma biçimleri ve iş modelleri ve daha nice kavram bu dönemde gündemimize girdi. Büyük değişikliklerin, dönüşümlerin yaşandığı bu dönemde emek pazarında da beceri portföyünün giderek genişlediğini, çeşitlendiğini, bazı yeni becerilerin portföye dahil olduğunu, bazılarının da portföyden çıktığını gözlüyoruz. Dinamik bir beceri portföyü var ve portföyün bu niteliğinde de yakın gelecekte bir yavaşlama olmayacağını rahatlıkla söyleyebiliriz. İşte böyle bir ortamda endüstri mühendislerine azalmayan hatta artan bir talebi görüyoruz. Endüstri mühendisleri daha çeşitli ve daha etkin pozisyonlarda istihdam ediliyorlar. Bunda endüstri mühendisliğinin değişimlere ayak uydurabilme esnekliği ve yeteneğinin önemli rolü olduğunu söyleyebiliriz. Bu artan talep daha donanımlı bir insan kaynağının endüstri mühendisliğine yönelmesini teşvik etmekte ve bu husus da mesleğin iş hayatındaki başarı düzeyini olumlu etkilemektedir.
@@ -22,3 +21,5 @@ Taslak bildirinin Teşekkür bölümünde, “Bu yazıda birçok kaynağın bilg
 [BİLDİRİ](./EM_1982.pdf) &emsp;
 [KAYNAKÇA](./kaynak.md) &emsp;
 [ÖZET](./özet.md)
+
+<script>document.title="EM/Sunuş – G Ulusoy"</script>

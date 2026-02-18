@@ -1,7 +1,6 @@
 <style>
     body {max-width: 700px; margin: auto;}
 </style>
-<title>EM Özet</title>
 ## ÖZET -- NotebookLM
 
 _Doç. Dr. **Gündüz Ulusoy** tarafından Aralık 1982'de hazırlanan "Endüstri Mühendisliği - Bir Tanıtma" başlıklı bildiri, bu disiplinin tarihsel gelişimini, temel metodolojisini ve Türkiye'deki uygulama alanlarını kapsamlı bir şekilde ele almaktadır._
@@ -26,3 +25,5 @@ Türkiye'de EM'nin temel sorunu, mesleğin yeterince tanınmaması ve sezgiye da
 Sonuç olarak, endüstri mühendisliği dinamik ve sürekli genişleyen bir disiplindir; temel amacı, kısıtlı kaynakları en verimli şekilde kullanarak sistem performansını maksimize etmektir.
 
 Hazırlayan: [NotebookLM](https://notebooklm.google.com/notebook/10aaad5c-eb34-4d60-b473-2874cf014f13)
+
+<script>document.title="EM/Özet – NotebookLM"</script>
