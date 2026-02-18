@@ -1,6 +1,7 @@
 <style>
     body {max-width: 700px; margin: auto;}
 </style>
+<title>EM Özet</title>
 ## ÖZET -- NotebookLM
 
 _Doç. Dr. **Gündüz Ulusoy** tarafından Aralık 1982'de hazırlanan "Endüstri Mühendisliği - Bir Tanıtma" başlıklı bildiri, bu disiplinin tarihsel gelişimini, temel metodolojisini ve Türkiye'deki uygulama alanlarını kapsamlı bir şekilde ele almaktadır._
